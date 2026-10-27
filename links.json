@@ -147,7 +147,8 @@
       "icon": "🎨"
     },
     {
-      "name": "游戏娱乐",
+      "name": "影音娱乐",
+      "icon": "🎮",
       "links": [
         {
           "url": "https://game.maj-soul.com/",
@@ -188,9 +189,85 @@
         {
           "url": "https://wiki.biligame.com/blhx/",
           "name": "碧蓝航线 Wiki"
+        },
+        {
+          "url": "https://www.agedm.io/",
+          "name": "AGE动漫"
+        },
+        {
+          "url": "https://www.bilibili.com/",
+          "name": "哔哩哔哩",
+          "icon": "https://www.bilibili.com/favicon.ico"
+        },
+        {
+          "url": "https://www.douyin.com/",
+          "name": "抖音"
+        },
+        {
+          "url": "https://mikanani.me/",
+          "name": "蜜柑计划"
+        },
+        {
+          "url": "https://music.youtube.com/",
+          "name": "YouTube Music"
+        },
+        {
+          "url": "https://open.spotify.com/",
+          "name": "Spotify"
+        },
+        {
+          "url": "https://share.dmhy.org/",
+          "name": "动漫花园"
+        },
+        {
+          "url": "https://www.tiktok.com/",
+          "name": "TikTok"
+        },
+        {
+          "url": "https://vcb-s.com/",
+          "name": "VCB-Studio"
+        },
+        {
+          "url": "https://www.youtube.com/",
+          "name": "YouTube"
+        },
+        {
+          "url": "https://anilist.co/",
+          "name": "AniList"
+        },
+        {
+          "url": "https://www.artstation.com/",
+          "name": "ArtStation"
+        },
+        {
+          "url": "https://www.ggac.com/",
+          "name": "GGAC数字艺术平台"
+        },
+        {
+          "url": "https://huaban.com/",
+          "name": "花瓣网"
+        },
+        {
+          "url": "https://www.kongfz.com/",
+          "name": "孔夫子旧书网"
+        },
+        {
+          "url": "https://www.mangacopy.com/",
+          "name": "拷貝漫畫"
+        },
+        {
+          "url": "https://www.pinterest.com/",
+          "name": "Pinterest"
+        },
+        {
+          "url": "https://www.pixiv.net/",
+          "name": "pixiv"
+        },
+        {
+          "url": "https://shuyuan.yiove.com/",
+          "name": "Yiove 书源仓库"
         }
-      ],
-      "icon": "🎮"
+      ]
     },
     {
       "name": "软件工具",
@@ -389,95 +466,6 @@
         }
       ],
       "icon": "💬"
-    },
-    {
-      "name": "影音视听",
-      "links": [
-        {
-          "url": "https://www.agedm.io/",
-          "name": "AGE动漫"
-        },
-        {
-          "url": "https://www.bilibili.com/",
-          "name": "哔哩哔哩",
-          "icon": "https://www.bilibili.com/favicon.ico"
-        },
-        {
-          "url": "https://www.douyin.com/",
-          "name": "抖音"
-        },
-        {
-          "url": "https://mikanani.me/",
-          "name": "蜜柑计划"
-        },
-        {
-          "url": "https://music.youtube.com/",
-          "name": "YouTube Music"
-        },
-        {
-          "url": "https://open.spotify.com/",
-          "name": "Spotify"
-        },
-        {
-          "url": "https://share.dmhy.org/",
-          "name": "动漫花园"
-        },
-        {
-          "url": "https://www.tiktok.com/",
-          "name": "TikTok"
-        },
-        {
-          "url": "https://vcb-s.com/",
-          "name": "VCB-Studio"
-        },
-        {
-          "url": "https://www.youtube.com/",
-          "name": "YouTube"
-        },
-        {
-          "url": "https://anilist.co/",
-          "name": "AniList"
-        }
-      ],
-      "icon": "🎬"
-    },
-    {
-      "name": "阅读图库",
-      "links": [
-        {
-          "url": "https://www.artstation.com/",
-          "name": "ArtStation"
-        },
-        {
-          "url": "https://www.ggac.com/",
-          "name": "GGAC数字艺术平台"
-        },
-        {
-          "url": "https://huaban.com/",
-          "name": "花瓣网"
-        },
-        {
-          "url": "https://www.kongfz.com/",
-          "name": "孔夫子旧书网"
-        },
-        {
-          "url": "https://www.mangacopy.com/",
-          "name": "拷貝漫畫"
-        },
-        {
-          "url": "https://www.pinterest.com/",
-          "name": "Pinterest"
-        },
-        {
-          "url": "https://www.pixiv.net/",
-          "name": "pixiv"
-        },
-        {
-          "url": "https://shuyuan.yiove.com/",
-          "name": "Yiove 书源仓库"
-        }
-      ],
-      "icon": "📖"
     },
     {
       "name": "编程开发",
