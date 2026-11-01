@@ -78,10 +78,6 @@
           "name": "Microsoft Copilot"
         },
         {
-          "url": "https://www.sillytavern.app/",
-          "name": "SillyTavern"
-        },
-        {
           "url": "https://www.doubao.com/",
           "name": "豆包"
         },
@@ -148,7 +144,6 @@
     },
     {
       "name": "休闲娱乐",
-      "icon": "🎮",
       "links": [
         {
           "url": "https://game.maj-soul.com/",
@@ -266,12 +261,16 @@
         {
           "url": "https://shuyuan.yiove.com/",
           "name": "Yiove 书源仓库"
+        },
+        {
+          "url": "https://www.sillytavern.app/",
+          "name": "SillyTavern"
         }
-      ]
+      ],
+      "icon": "🎮"
     },
     {
       "name": "软件工具",
-      "icon": "🧰",
       "links": [
         {
           "url": "https://archlinux.org/",
@@ -394,7 +393,8 @@
           "url": "https://geoviewer.aloxaf.com/",
           "name": "GeoSite Viewer"
         }
-      ]
+      ],
+      "icon": "🧰"
     },
     {
       "name": "云存储",
