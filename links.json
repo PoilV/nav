@@ -88,6 +88,10 @@
         {
           "url": "https://gemini.google.com/",
           "name": "Google Gemini"
+        },
+        {
+          "url": "https://www.tavily.com/",
+          "name": "Tavily"
         }
       ],
       "icon": "🤖"
@@ -335,10 +339,6 @@
         {
           "url": "https://hosted.weblate.org/",
           "name": "Hosted Weblate"
-        },
-        {
-          "url": "https://www.tavily.com/",
-          "name": "Tavily"
         },
         {
           "url": "https://q.qq.com/",
